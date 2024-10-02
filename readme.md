@@ -33,4 +33,4 @@ If you use this repository or refer to our work, please cite our paper as follow
 
 ## Contact
 
-For further inquiries or collaboration opportunities, please contact us at [kenza.benkirane.23@ucl.ac.uk].
+For further inquiries or collaboration opportunities, please contact us at [kenza.benkirane.23@ucl.ac.uk] and [laura.gkogka.23@ucl.ac.uk].
