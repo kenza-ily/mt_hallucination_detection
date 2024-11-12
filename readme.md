@@ -17,6 +17,12 @@ Recent advancements in massively multilingual machine translation systems have s
 
 - LLMs can achieve performance comparable or even better than previously proposed models despite not being explicitly trained for any machine translation task, though their advantage is less significant for LRLs.
 
+## Evaluation reproducibility script sample
+```bash
+pip install -r requirements.txt
+python main.py --input df_full_embeds.csv --load_embed True --embed_methods cohere mistral
+```
+
 
 ## Citation
 
